@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/Blocklop" >
+        <file>icon.png</file>
+        <file>icons/blocklop.svg</file>
+  </qresource>
+</RCC>
